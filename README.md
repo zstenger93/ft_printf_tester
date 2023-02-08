@@ -12,25 +12,25 @@ $ git clone https://github.com/zstenger93/ft_printf_tester.git
 <p>This will show you the available options</p>
 
 ```shell
-$ cd ft_printf_tester && ./test.sh
+$ ./test.sh
 ```
 
 <p>Run Mandatory Tests</p>
 
 ```shell
-$ cd ft_printf_tester && ./test.sh m
+$ ./test.sh m
 ```
 
 <p>Run Bonus Tests</p>
 
 ```shell
-$ cd ft_printf_tester && ./test.sh b
+$ ./test.sh b
 ```
 
 <p>Run Both</p>
 
 ```shell
-$ cd ft_printf_tester && ./test.sh a
+$ ./test.sh a
 ```
 
 <p>If you need perission to run .sh:</p>
