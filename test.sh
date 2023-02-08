@@ -45,7 +45,7 @@ elif [ $result -eq 42 ]; then
     echo -e "\033[1;31m          ############################\033[0m"
 	echo -e "\033[1;31m          #  cookies, i like cookies #\033[0m"
 	echo -e "\033[1;31m          ############################\033[0m"
-    echo -e "\033[1;31m          Check test.sh for test cases\033[0m"
+    echo -e "\033[1;31m           Check test.c for the tests \033[0m"
 else
     echo -e "\033[1;31m############################\033[0m"
 	echo -e "\033[1;31m#            KO            #\033[0m"
