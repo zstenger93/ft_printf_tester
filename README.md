@@ -1,5 +1,5 @@
 <div align=center>
-<h1>💡FT_PRINTF TESTER💡</h1>
+<h1>💡FT_PRINTF_TESTER💡</h1>
 <h2>🛠️USAGE🛠️<h2>
 <p>First step:</p>
 
