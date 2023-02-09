@@ -39,10 +39,7 @@ int main(int argc, char **argv) {
 			exit_status = bonus(exit_status);
             exit(exit_status); 
         }
-        exit_status = 24;
-        exit(exit_status);
     }
-    exit_status = 24;
     exit(exit_status);
 }
 
