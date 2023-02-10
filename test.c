@@ -119,7 +119,7 @@ int    mandatory(int exit_status)
             if (result == printf("     \x1B[1;36m[-_-printf]: %% %%%% %%\n")) OK;
             else { KO; exit_status = 1; };
 
-            // case 11:
+            // case 11 where you probably fail:
             printf("\033[1;4;30m          TEST 11           \033[0;39m\n");
             result = ft_printf("%");
             if (result == -1) OK;
